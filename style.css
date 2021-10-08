@@ -77,7 +77,7 @@ font-family: bday;
     transform: rotateY(240deg) translateZ(300px);
 }
 .single-img.img-six{
-    transform: rotateY(360deg) translateZ(300px);
+    transform: rotateY(300deg) translateZ(300px);
 }
 img{
     filter: grayscale(90%);
